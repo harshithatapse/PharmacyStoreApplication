@@ -22,7 +22,7 @@ import com.ntt.model.SubCategory;
 import com.ntt.service.SubCategoryService;
 
 @RestController
-@RequestMapping("/api/v2")
+@RequestMapping("/subcategory")
 
 public class SubCategoryController {
 		

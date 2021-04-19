@@ -21,7 +21,7 @@ import com.ntt.model.SubCategory;
 import com.ntt.service.ProductService;
 
 @RestController
-@RequestMapping("/api/v2")
+@RequestMapping("/product")
 public class ProductController {
 	
 	@Autowired
